@@ -1,0 +1,15 @@
+total 40
+drwxr-xr-x 1 kevinsanchezdabest kevinsanchezdabest 244 Feb 13 13:36 .
+drwxr-xr-x 1 kevinsanchezdabest kevinsanchezdabest 114 Feb 13 11:02 ..
+-rwxr--r-- 1 kevinsanchezdabest kevinsanchezdabest  32 Feb 13 11:07 0-hello_world
+-rwxr--r-- 1 kevinsanchezdabest kevinsanchezdabest  28 Feb 13 11:26 1-confused_smiley
+-rwxr--r-- 1 kevinsanchezdabest kevinsanchezdabest  28 Feb 13 11:39 2-hellofile
+-rwxr--r-- 1 kevinsanchezdabest kevinsanchezdabest  39 Feb 13 11:49 3-twofiles
+-rwxr--r-- 1 kevinsanchezdabest kevinsanchezdabest  35 Feb 13 12:01 4-lastlines
+-rwxr--r-- 1 kevinsanchezdabest kevinsanchezdabest  35 Feb 13 12:03 5-firstlines
+-rwxr--r-- 1 kevinsanchezdabest kevinsanchezdabest  46 Feb 13 12:49 6-third_line
+-rwxr--r-- 1 kevinsanchezdabest kevinsanchezdabest  92 Feb 13 13:32 7-file
+-rw-r--r-- 1 kevinsanchezdabest kevinsanchezdabest 143 Feb 13 12:20 iacta
+-rw-r--r-- 1 kevinsanchezdabest kevinsanchezdabest   0 Feb 13 13:36 ls_cwd_content
+-rw-r--r-- 1 kevinsanchezdabest kevinsanchezdabest  82 Feb 13 11:03 README.md
+-rw-r--r-- 1 kevinsanchezdabest kevinsanchezdabest   0 Feb 13 13:29 vi
